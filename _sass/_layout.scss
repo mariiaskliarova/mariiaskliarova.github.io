@@ -2,7 +2,7 @@
  * Site header
  */
  .wrapper .container {
-    max-width: 80rem;
+    max-width: 100%;
 }
 
 .site-header {
@@ -24,6 +24,7 @@
 }
 
 .post-title {
+    max-width: 100%;
     display: block;
 }
 
